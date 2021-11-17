@@ -1,32 +1,39 @@
 {
   "user": [
     {
-      "name": "Tiến Tài",
+      "name": "Nguyễn Tiến Tài",
       "address": "Nha Trang",
       "email": "nguyentientai10@gmail.com",
-      "contact": "0123",
+      "contact": "0798805741",
       "id": 1
     },
     {
-      "name": "Bảo Khang",
-      "address": "Biên Hòa",
+      "name": "Nguyễn Bảo Khang",
+      "address": "Nha Trang",
       "email": "nguyenbaokhang10@gmail.com",
       "contact": "4567",
       "id": 2
     },
     {
-      "name": "Hữu Quyền",
+      "name": "Nguyễn Hữu Quyền",
       "address": "Sài Gòn",
       "email": "boynhangheo10@gmail.com",
-      "contact": "quận cam",
+      "contact": "115",
       "id": 3
     },
     {
-      "name": "Phi Hoàng",
+      "name": "Trần Phi Hoàng",
       "address": "Sài Gòn",
       "email": "phihoang@gmail.com",
-      "contact": "quận bình thạnh",
+      "contact": "113",
       "id": 4
+    },
+    {
+      "name": "Bùi Huỳnh Quốc Trung",
+      "address": "Tổ 9",
+      "email": "trungsadec@gmail.com",
+      "contact": "114",
+      "id": 5
     }
   ]
 }
