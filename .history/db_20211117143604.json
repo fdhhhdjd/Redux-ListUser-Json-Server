@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Tiến Tài",
+      "address": "Nha Trang",
+      "email": "nguyentientai10@gmail.com",
+      "contact": "0123",
+      "id": 1
+    },
+    {
+      "name": "Bảo Khang",
+      "address": "Biên Hòa",
+      "email": "nguyenbaokhang10@gmail.com",
+      "contact": "4567",
+      "id": 2
+    },
+    {
+      "name": "Hữu Quyền",
+      "address": "Sài Gòn",
+      "email": "boynhangheo10@gmail.com",
+      "contact": "quận cam",
+      "id": 3
+    },
+    {
+      "name": "Phi Hoàng",
+      "address": "Sài Gòn",
+      "email": "phihoang@gmail.com",
+      "contact": "quận bình thạnh",
+      "id": 4
+    }
+  ]
+}

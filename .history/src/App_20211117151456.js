@@ -7,9 +7,7 @@ import {
   Navigate,
   Outlet,
 } from "react-router-dom";
-import { Home, AddEditUser, UserInfo, About, Header } from "./imports/Index";
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import { Home, AddEditUser, UserInfo, About } from "./imports/Index";
 function App() {
   return (
     <>
